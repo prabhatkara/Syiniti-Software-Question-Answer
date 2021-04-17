@@ -2,14 +2,17 @@
 
 Q1. What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally. Just a short paragraph is fine, 
 but I’d love to know why you’re proud of it.
+
 Ans: - My proudest achievement is getting Bronze Apex Award from CGI Inc. This is for outstanding performance in the second quarter of 2020. In the last quarter, I had resolved 5 critical defects meeting the SLA deadlines. Client has appreciated my sincere efforts and also
 received pat on the back from our client. In a short span of time, I worked proactively in various aspect of client requirements and delivered my best.  
 
 Q2. What’s a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real-world project you're working on.
+
 Ans: - As of now I am more engaged in certification program and completed 2 Microsoft certification exams by going through the in-depth concept of cloud and data fundamentals. By using those concepts, I am planning to 
 crate a project of my own which will give the best practice of my knowledge and hands-on experience.
 
 Q3. Tell us about a technical book or article you read recently, why you liked it, and why we should read it.
+
 Ans: - Recently I have gone through an article Telecome-101.  This article is curated by the Telco to acquainted with concepts and technologies in the communications landscape. 
  This article will provide a flavor of the global Telco markets with emerging industry trends. With Telecom 101, I learn about: 
  • The history and business ecosystem of telecom 
@@ -25,6 +28,7 @@ Ans: - Recently I have gone through an article Telecome-101.  This article is cu
  • TM Forum Frameworks
 
 Q4. Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.
+
 Ans: - One of my favorite product is RBM (Rating and Billing Management). This is a product of Netcracker which is a leading Telco in the globe. Netcracker digital BSS/OSS portfolio is the optimal choice for service providers looking for a cloud-native solution that enables AI-driven, digital-first, omnichannel customer engagement. It also provides efficient monetization of new lines of business,
 rich digital partner ecosystems and end-to-end service automation of hybrid and cloud services from edge to core. 
 
